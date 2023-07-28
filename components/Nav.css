@@ -1,0 +1,25 @@
+nav {
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+ul {
+  width: 300px;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 10px;
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: #060606;
+}
+
+.link:hover {
+  padding: 5px;
+  background-color: #060606;
+  color: #fff;
+}
